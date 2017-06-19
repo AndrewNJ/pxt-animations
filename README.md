@@ -1,6 +1,6 @@
-# animations
+# Andrimations
 
-a;ksjda
+Cool animations for the microbit by Andrew.
 
 ## License
 

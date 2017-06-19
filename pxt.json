@@ -1,7 +1,7 @@
 {
     "name": "Andrimations",
     "version": "0.0.1",
-    "description": "Cool animations for the microbit",
+    "description": "Cool animations for the microbit by Andrew.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
