@@ -1,6 +1,6 @@
 {
-    "name": "animations",
-    "version": "0.0.0",
+    "name": "Andrimations",
+    "version": "0.0.1",
     "description": "Cool animations for the microbit",
     "license": "MIT",
     "dependencies": {
